@@ -1,0 +1,13 @@
+.blogsPagep{
+    font-size: 1.3rem;
+    text-align: justify;
+}
+.edit{
+    font-size: 2rem;
+    transition: all 0.5s;
+
+}
+.edit:hover{
+    color:red;
+    cursor: pointer;
+}

@@ -22,7 +22,7 @@ This is a simple blog application that allows users to view, create, update, and
 ## Tech Stack
 
 * **Frontend**: React.js
-* **Backend**: Node.js
+* **Backend**: Express.js
 * **Database**: MongoDB
 
 

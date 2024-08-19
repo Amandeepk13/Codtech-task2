@@ -5,7 +5,7 @@
 **ID**: CT12DS1797  
 **DURATION**:15th July to 15th September 2024   
 **DOMAIN**: Full Stack  
-**Mentor**: NEELA SANTHOSH KUMAR  
+**Mentor**: MUZAMMIL AHMED
 
 
 ## Project Overview
